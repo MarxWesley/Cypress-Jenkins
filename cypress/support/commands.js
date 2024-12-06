@@ -27,3 +27,4 @@
 import global from "./pages/global";
 import LoginPage from "./pages/LoginPage";
 import InitialPage from "./pages/InitialPage";
+import HomePage from "./pages/HomePage";
